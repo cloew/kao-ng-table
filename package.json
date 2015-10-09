@@ -1,0 +1,23 @@
+{
+  "name": "kao-ng-table",
+  "version": "0.0.0",
+  "description": "Helper library to provide a simple table directive",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloew/kao-ng-table.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cloew/kao-ng-table/issues"
+  },
+  "homepage": "https://github.com/cloew/kao-ng-table#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-spider-script": "0.0.9"
+  }
+}

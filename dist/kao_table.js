@@ -13,5 +13,3 @@ $traceurRuntime.ModuleStore.getAnonymousModule(function() {
   });
   return {};
 });
-
-//# sourceMappingURL=kao_table.map
